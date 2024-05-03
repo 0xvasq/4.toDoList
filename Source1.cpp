@@ -1,6 +1,6 @@
 #include <iostream>
 
-namespace using std;
+using namespace std;
 
 
 const int M = 50;
